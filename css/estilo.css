@@ -1,0 +1,51 @@
+div {
+    font-family: Verdana;
+    text-align: center;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+h2 {
+    font-size: 18px;
+    color: #e67736;
+    font-weight: normal;
+    text-align: center;
+}
+
+h3 {
+    font-size: 16px;
+    text-decoration: underline;
+    color: #e67736;
+}
+
+p {
+    font-size: 14px;
+    line-height: 28px;
+    color: #e8e9e9;
+}
+
+span {
+    font-size: 22px;
+    font-family: Verdana;
+    color: 
+    #e8e9e9;
+}
+
+div2 {
+    font-family: Verdana;
+}
+
+div3 {
+    font-family: Verdana;
+}
+
+hr {
+    border-color: #e67736;
+}
